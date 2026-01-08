@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Giacomo 👋
 
-<!--
-**Grecagni/Grecagni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚙️ **Mechanical Engineer & Maker**  
+🔬 R&D at **Pellini S.p.A.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I do
+- 🤖 Automation & control systems  
+- 🧩 CAD / CAM & mechanical design  
+- 🖥️ Web apps (JS, Bootstrap, Firebase)  
+- 🔌 Electronics & embedded systems  
+- 🖨️ Prototyping & 3D printing  
+
+---
+
+## 🚀 Current interests
+- Industrial automation & IoT  
+- AI on edge devices (Jetson, Raspberry Pi)  
+- Engineering tools & productivity apps  
+- Mixing mechanics, electronics & software  
+
+---
+
+## 📂 Projects
+Here you'll find:
+- Personal web apps (expense tracking, dashboards)
+- Automation & monitoring projects
+- Engineering scripts and experiments
+- Prototypes and technical studies
+
+---
+
+## 🌱 Mindset
+Always learning.  
+Always building.  
+Always improving.
+
+---
+
+📫 Feel free to explore my repositories or get inspired!
