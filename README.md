@@ -35,11 +35,20 @@ I work at the intersection of **mechanics, electronics and software**, turning i
 ---
 
 ## 📂 Featured projects
-Here you’ll find:
-- 📊 Expense tracking & management web apps  
-- 🏭 Automation & monitoring prototypes  
-- 🧠 Engineering scripts and experiments  
-- 🔩 Mechanical and electronic proof-of-concepts  
+
+### 🔹 **Open Factor Designer (OF)**
+Single-page web app to **design micro-perforation patterns** and calculate the **Open Factor (OF)** of perforated panels.  
+Focused on parametric design, visualization, and practical engineering use.
+
+🔗 https://github.com/Grecagni/OF
+
+---
+
+### 🔹 **Palio delle Carriole**
+Web project and website developed for the **Palio delle Carriole**, a local community event.  
+The repository contains the full project and directly represents the final website.
+
+🔗 https://github.com/Grecagni/Paliodellecarriole
 
 ---
 
