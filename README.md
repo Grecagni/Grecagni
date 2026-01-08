@@ -58,6 +58,6 @@ The repository contains the full project and directly represents the final websi
 ---
 
 ## 🌱 Mindset
-Build things that work.  
-Improve them.  
-Then industrialize them.
+Always learning.  
+Always building.  
+Always improving.
